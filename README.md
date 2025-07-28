@@ -1,6 +1,6 @@
 QR Code Generator
- Overview
-Welcome to the QR Code Generator! This intuitive web application allows you to effortlessly create QR codes for various types of data, including URLs, plain text, and contact information (vCard). Built with React and styled beautifully with Tailwind CSS, it offers a seamless user experience with a focus on simplicity and functionality.
+Overview
+Welcome to the QR Code Generator! This intuitive web application allows you to effortlessly create QR codes for various data types, including URLs, plain text, and contact information (vCard). Built with React and styled beautifully with Tailwind CSS, it offers a seamless user experience focusing on simplicity and functionality.
 
 Whether you need a QR code for your website, a quick note, or to share your business card, this tool has you covered. Plus, it features a login/signup system to enhance user experience (though currently using mock authentication for demonstration).
 
